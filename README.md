@@ -48,7 +48,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 # Insights
 
-A double page report was created on Power BI Desktop & it was then published to Power BI Service.
+A double page report was created on Power BI Desktop.
 
 - In october month profit > sales-order of quantity is more in october 
 - In 2020,march profit increased by 4 times
