@@ -1,4 +1,4 @@
-# Tournament-Dashboard
+# Tournament Dashboard
 
 # Problem Statement
 Develop an interactive Game Dashboard that provides comprehensive insights into various aspects, including:
